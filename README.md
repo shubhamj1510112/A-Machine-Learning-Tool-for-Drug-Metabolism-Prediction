@@ -1,4 +1,4 @@
-# A-Machine-Learning-Tool-for-Drug-Metabolism-Prediction
+# A Machine Learning Tool for Drug Metabolism Prediction
 Work published in a peer-reviewed international journal Nature Scientific Reports
 
 ## Abstract
