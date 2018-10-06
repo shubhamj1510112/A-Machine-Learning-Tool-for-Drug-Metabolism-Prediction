@@ -1,1 +1,11 @@
 # A-Machine-Learning-Tool-for-Drug-Metabolism-Prediction
+Work published in a peer-reviewed international journal Nature Scientific Reports
+
+## Abstract
+The human gut microbiota is constituted of a diverse group of microbial species harbouring an enormous metabolic potential, which can alter the metabolism of orally administered drugs leading to individual/population-specific differences in drug responses. Considering the large heterogeneous pool of human gut bacteria and their metabolic enzymes, investigation of species-specific contribution to xenobiotic/drug metabolism by experimental studies is a challenging task. Therefore, we have developed a novel computational approach to predict the metabolic enzymes and gut bacterial species, which can potentially carry out the biotransformation of a xenobiotic/drug molecule. A substrate database was constructed for metabolic enzymes from 491 available human gut bacteria. The structural properties (fingerprints) from these substrates were extracted and used for the development of random forest models, which displayed average accuracies of up to 98.61% and 93.25% on cross-validation and blind set, respectively. After the prediction of EC subclass, the specific metabolic enzyme (EC) is identified using a molecular similarity search. The performance was further evaluated on an independent set of FDA-approved drugs and other clinically important molecules. To our knowledge, this is the only available approach implemented as ‘DrugBug’ tool for the prediction of xenobiotic/drug metabolism by metabolic enzymes of human gut microbiota.
+
+## Access to tool, methods, and results
+Complete article can be accessed at the journal website (link: https://www.nature.com/articles/s41598-017-10203-6). The same article is also provided in this repositoary as a pdf file (complete_article.pdf). The tool can be accessed and used for making new predictions at our laboratoty website (link: http://metagenomics.iiserb.ac.in/drugbug)
+
+## Citation 
+Sharma, Ashok K., Shubham K. Jaiswal, Nikhil Chaudhary, and Vineet K. Sharma. "A novel approach for the prediction of species-specific biotransformation of xenobiotic/drug molecules by the human gut microbiota." Scientific reports 7, no. 1 (2017): 9751.
